@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shriii25
+- 👋 Hi, I’m Shriya
 - 👀 I’m interested in Artificial Intelligence & Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any projects I find interesting
